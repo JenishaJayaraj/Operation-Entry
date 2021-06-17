@@ -1,0 +1,6 @@
+language: python
+services:
+	- mariadb
+script:
+	gulp travis
+
